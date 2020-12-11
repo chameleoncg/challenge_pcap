@@ -13,7 +13,7 @@ We would like a tool that will parse through the PCAP and determine if we should
 
 ## Task
 
-We have found out we can use https://greynoise.io/ to get more information about IPs in the PCAP. In particular the information detailed here: https://developer.greynoise.io/reference#ip-lookup-1
+We have found out we can use https://greynoise.io/ to get more information about IPs in the PCAP. In particular the information detailed here: https://developer.greynoise.io/reference#noisecontextip-1
 
 Write a tool that generates a report to help us analyze the data. Submit the code back to us at contact@chameleoncg.com as a tar/zip or URL to a GitHub repository.
 
@@ -49,3 +49,6 @@ https://scapy.readthedocs.io/en/latest/usage.html#reading-pcap-files
 
 If using python, requests library is an easy tool for doing REST calls
 https://requests.readthedocs.io/en/master/
+
+See this page for authentication headers for `greynoise.io`:
+https://developer.greynoise.io/docs/authentication
