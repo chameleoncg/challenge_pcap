@@ -44,7 +44,7 @@ Concerning IPs:
 
 ### Hints
 
-If using python, scapy is a great tool for reading PCAP files:
+If using python, scapy (`pip install scapy-python3`) is a great tool for reading PCAP files:
 https://scapy.readthedocs.io/en/latest/usage.html#reading-pcap-files
 
 If using python, requests library is an easy tool for doing REST calls
