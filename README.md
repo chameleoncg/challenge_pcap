@@ -19,8 +19,8 @@ Write a tool that generates a report to help us analyze the data. Submit the cod
 
 #### Task Details
 
-You may use the following API key for greynoise.io (note it expires on Dec 25, 2020).
-fEpyQknDfGAZo59MXNJF4Hjv7s8QLlhJcEhlae5a8XLnLhNAH4acpU90pbD7fjGy
+You may use the following API key for greynoise.io (note it expires on Feb 4, 2020).
+vzGsx8V9QvVC3mQpHJdLFTfRI43DddnbuTSRl3aNQWZ4wIcTZ54BMGftw0QExkgK
 
 We are interested in the following data in the report
 
